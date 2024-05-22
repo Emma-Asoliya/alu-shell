@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . chmod ugo+x
+sudo find . chmod ugo+x hello
