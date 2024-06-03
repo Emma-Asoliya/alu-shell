@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #This script terminates stops the process in the previous script
 
-kill 31691
+kill -9 31691
