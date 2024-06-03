@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 #This script terminates stops the process in the previous script
-
-killall 4-to_infity_and_beyond
+kill "$(ps -x | pgrep -f beyond)"
