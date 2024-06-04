@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#manages the processes
+#manage the processes
 if [[ "$#" == "1" ]]
 then
         if [[ "$1" == "start" ]]
